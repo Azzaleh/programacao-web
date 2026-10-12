@@ -12,6 +12,6 @@ Programação Web.
 - Git
 - GitHub
 
-##Caputra de tela DEVTOOLS
+## Caputra de tela DEVTOOLS
 
-![Página HTML com as propriedads visuais alteradas](Captura de tela DEVTOOLS.png)
+![Página HTML com propriedade visual alterada](./Captura%20de%20tela%20DEVTOOLS.png)
